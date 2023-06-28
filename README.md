@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Radek. I'm first year student majoring Computer Science. Currently focusing to deep my knowledge of Django and PostgreSQL
+# My name is Radek. I'm first year student majoring Computer Science. Currently focusing to deep my knowledge of Django and PostgreSQL
 
 - 🔭 I’m currently working on some projects that will help me get my first job
 - 🌱 I’m currently learning Django and PostgreSQL
