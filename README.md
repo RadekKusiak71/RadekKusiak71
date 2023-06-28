@@ -1,16 +1,14 @@
 ### Hi there 👋
+## My name is Radek. I'm first year student majoring Computer Science. Currently focusing to deep my knowledge of Django and PostgreSQL
 
-<!--
-**RadekKusiak71/RadekKusiak71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some projects that will help me get my first job
+- 🌱 I’m currently learning Django and PostgreSQL
 
-Here are some ideas to get you started:
+## My Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534](https://github.com/RadekKusiak71/RadekKusiak71/assets/121208184/4c826024-af15-4795-b37e-97d6ec9dcb31)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d2532333039324532302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465](https://github.com/RadekKusiak71/RadekKusiak71/assets/121208184/62710335-c733-44e4-9e9d-880629fc3deb)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465](https://github.com/RadekKusiak71/RadekKusiak71/assets/121208184/c5ad9ed9-c0cf-4f62-bb05-e72ba792d4df)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465](https://github.com/RadekKusiak71/RadekKusiak71/assets/121208184/bdc4c49f-5bd4-4efe-8945-8a8e706d39d4)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/RadekKusiak71/RadekKusiak71/assets/121208184/19f58028-0748-4dd7-8337-96ae30435af4)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/RadekKusiak71/RadekKusiak71/assets/121208184/a0c51cfd-2986-4568-a485-efb21db7fc59)
+
+
