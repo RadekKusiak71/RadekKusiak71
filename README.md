@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Radek. I'm first year Computer Science student. I like to write web applications
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and trying to improve my JavaScript
 
 ## My Skills:
 <div >
