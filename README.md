@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### My name is Radek. I'm second year Computer Science student. I like to write web applications
 - 🌱 I’m currently learning React and trying to improve my JavaScript
+- I’m currently working on med appointment application using react/django
 
-## My Skills:
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
